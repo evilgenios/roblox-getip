@@ -34,8 +34,7 @@ After installing the required libraries, open up the **Config.json** and change 
 
 # Contributing
 
-> Pull requests are welcome. Any issues with the bot report on **Issues** Tab.
-> Discord: cy#1337
+> Pull requests are welcome. Any issues with the bot report on **Issues** Tab or contact me on discord: cy#1337
 
 # Disclaimers
 
